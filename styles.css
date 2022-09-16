@@ -104,8 +104,15 @@ section ul li:hover {
 
 .channel-list img {
     border-radius: 50%;
+    width: 50%;
+}
+
+.social-list img {
+    margin: auto;
+    border-radius: 10%;
     width: 70%;
-    border: 1px solid #443E54;
+    border: 3px linear-gradient(90deg, #9572FC 0%, #43E7AD 50.52%, #E2D45C 100%);
+    padding: 15px;
 }
 
 /* animation */
